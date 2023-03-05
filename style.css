@@ -1,0 +1,12 @@
+body {
+font-family: sans-serif;
+background-color: #eee;
+text-align: left;
+padding: 2.5% 5%;
+max-width: 60em;
+margin: auto;
+color: #000;
+}
+header, footer {
+text-align: center;
+}
